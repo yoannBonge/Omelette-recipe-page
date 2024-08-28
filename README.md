@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Omelette Recipe Page
 
-First, run the development server:
+Integration with Next/Tailwind of a simple recipe page, which is a challenge avalaible on https://www.frontendmentor.io/.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Screenshots
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Responsive-Illustration](https://github.com/yoannBonge/Omelette-recipe-page/blob/main/public/omelette-recipe-page-responsive.webp)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Authors
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [@YoannBonge](https://www.github.com/yoannBonge)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+To see this application run
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+https://omelette-recipe-page-yb.vercel.app/
+
+
+## 🚀 About Me
+I am a french junior web developer.
+
+
+## Acknowledgements
+
+ - https://www.frontendmentor.io/ (The website of the challenge)
+ - [Katherine Oelsner (for the README editor)](https://github.com/octokatherine)
+
