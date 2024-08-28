@@ -1,5 +1,5 @@
 import Image from "next/image";
-import omelettePic from "../../public/image-omelette.jpeg";
+import omelettePic from "../../public/omelette.jpeg";
 
 export default function Page() {
   return (

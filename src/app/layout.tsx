@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "Frontend Mentor | Recipe page",
   description: "Recipe page (integration with Next, Tailwind)",
   icons: {
-    icon: "/favicon-32x32.png",
+    icon: "/favicon.png",
   },
 };
 
